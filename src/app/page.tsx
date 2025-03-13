@@ -6,7 +6,6 @@ import {
   Mail,
   Linkedin,
   ArrowRight,
-  ExternalLink,
   ChevronLeft,
   ChevronRight,
 } from "lucide-react";
@@ -18,7 +17,6 @@ export default function Home() {
     { src: "/IMG_8108.jpeg", alt: "Ryan Johnson 1" },
     { src: "/Facetune_15-04-2023-01-22-55.jpeg", alt: "Ryan Johnson 2" },
     { src: "/IMG_8515.jpeg", alt: "Ryan Johnson 3" },
-    // Add more images as needed
   ];
 
   const projects = [
@@ -128,7 +126,7 @@ export default function Home() {
             <div className="ml-32 flex flex-col-reverse md:flex-row items-start justify-center gap-8 w-full">
               <div className="space-y-6 md:w-1/2 flex flex-col items-start text-left">
                 <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold tracking-tight text-black">
-                  Hi, I'm Ryan Johnson
+                  Hi, I&apos;m Ryan Johnson
                 </h1>
                 <h2 className="text-3xl sm:text-4xl md:text-5xl font-normal tracking-tight text-black">
                   CS@SJSU
@@ -227,24 +225,24 @@ export default function Home() {
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <div className="space-y-4">
                 <p className="text-lg">
-                  Hi, I'm Ryan, full-stack developer with a passion to craft
+                  Hi, I&apos;m Ryan, full-stack developer with a passion to craft
                   innovative solutions that are impactful and solve real-world
                   problems.
                 </p>
                 <p className="text-lg">
                   My journey as a full-stack developer has been defined by a
                   passion for building applications that are both efficient and
-                  impactful. Through diverse projects, I've gained experience in
+                  impactful. Through diverse projects, I&apos;ve gained experience in
                   creating seamless integrations between front-end and back-end
                   systems, optimizing performance, and ensuring scalability. I
                   enjoy working with technologies like React.js, Next.js,
                   Node.js, PostgreSQL, and Spring Boot to bring ideas to life
                   and solve complex challenges. Each project has been an
-                  opportunity to push the boundaries of what's possible while
+                  opportunity to push the boundaries of what&apos;s possible while
                   delivering solutions that make a meaningful difference.
                 </p>
                 <p className="text-lg">
-                  When I'm not coding, I enjoy spending time with friends and
+                  When I&apos;m not coding, I enjoy spending time with friends and
                   family, producing music, playing the guitar, hooping on the
                   basketball court, or catching up on my favorite sports.
                 </p>
