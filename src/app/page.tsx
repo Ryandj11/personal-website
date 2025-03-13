@@ -29,7 +29,7 @@ export default function Home() {
                     pipeline data extraction and integration, reducing manual effort and improving real-time 
                     accuracy. Designed efficient systems to store and manage data, ensuring reliability and 
                     scalability for the platform's users.`,
-      image: "/03_12_2025_X-Design.jpeg",
+      image: "/torq.jpeg",
       techStack: [
         "Python",
         "PostgreSQL",
@@ -48,7 +48,7 @@ export default function Home() {
                     PostgreSQL, and Drizzle ORM, reducing query. Designed a responsive UI with 
                     Shadcn and Tailwind CSS, integrating Google OAuth for secure authentication. 
                     Collaborated with SJSU students using GitHub for code reviews and workflow efficiency.`,
-      image: "/Screenshot 2025-03-12 at 11.10.56 PM.png",
+      image: "/spartancompass.png",
       techStack: [
         "Next.js",
         "PostgreSQL",
